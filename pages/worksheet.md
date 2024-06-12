@@ -1,6 +1,6 @@
 <h1><b>Empowering Self-Publishing with Docsify-This:</b><br>A Digital Literacy Workshop</h1>
 
-<h2>Worksheet</h2>
+<h2>Interactive Worksheet</h2>
 
 The open-source web app [Docsify-This.net](https://Docsify-This.net), built with the unique no-build site generator [Docsify.js.org](https://docsify.js.org), provides a quick way to publish one or more online Markdown files as standalone web pages without needing to set up your own website.
 
