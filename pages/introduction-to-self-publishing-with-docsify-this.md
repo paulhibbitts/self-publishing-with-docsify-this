@@ -4,7 +4,7 @@ Welcome to the 'Empowering Self-Publishing with Docsify-This: A Digital Literacy
 
 ## Unlocking the Power of Self-Publishing
 
-Docsify-This.net (built with the magical documentation site generator [Docsify](https://docsify.js.org)) is an open-source tool for publishing static websites using plain text and Markdown. This workshop will guide you through the essentials and advanced techniques for using Docsify-This for self-publishing.
+This overview introduces Markdown publishing using **Docsify-This**, an open-source project available at https://Docsify-This.net (built with the magical documentation site generator https://docsify.js.org) that turns Markdown files into web pages. It covers the basics of Markdown, its advantages, and various tools and scenarios for publishing Markdown files as standalone web pages or embedded content.
 
 ---
 
