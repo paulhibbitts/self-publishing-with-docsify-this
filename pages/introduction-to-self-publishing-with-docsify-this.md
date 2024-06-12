@@ -92,3 +92,5 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 - **Activity**: Explore how Docsify-This uses CSR to dynamically render content.
 - **Resources**:
   - [Server Side Rendering vs Client Side Rendering vs Server Side Generation](https://www.geeksforgeeks.org/server-side-rendering-vs-client-side-rendering-vs-server-side-generation/)
+
+_This educational resource was partially created with the assistance of ChatGPT, an AI language model developed by OpenAI. ChatGPT provided suggestions, draft content, and ideas which were reviewed and adapted by the author._
