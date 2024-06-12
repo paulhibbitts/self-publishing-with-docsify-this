@@ -7,53 +7,44 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 1. Display the following Markdown file URL as a standalone Web page  
 `https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md`
 
-    <div>
     <details>
       <summary>Show solution</summary>
       
       <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
       
     </details>
-    </div>
 
 2. Display a Markdown file URL of your choice as a standalone Web page. If you do not have a Markdown file URL handy you can use the following URL  
 `https://codeberg.org/Codeberg/Documentation/src/branch/main/README.md`
 
-    <div>
     <details>
       <summary>Show solution</summary>
       
       <a class="navpill" href="https://docsify-this.net/?url-field=https://codeberg.org/Codeberg/Documentation/src/branch/main/README.md" title="Load Docsify-This with the Markdown file URL codeberg.org/Codeberg/Documentation/src/branch/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
       
     </details>
-    </div>
 
 3. Visually style a displayed Markdown file using the Web Page Builder, for example change the page font family or link color  
 
-    <div>
     <details>
       <summary>Show solution</summary>
       
       <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md, page font family Merriweather and link color cc0000" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
       
     </details>
-    </div>
 
 4. Share the URL of a Web page created by Docsify-This Web Page Builder  
 
-    <div>
     <details>
       <summary>Show solution</summary>
       
       https://docsify-this.net/?basePath=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000
       
     </details>
-    </div>
 
 5. Decode the URL parameters of the following raw Docsify-This Web Page URL  
 `https://docsify-this.net/?basePath=https://raw.codeberg.page/paulhibbitts/codeberg-demo-markdown-file&homepage=README.md&sidebar=true&link-color=cc0000`
 
-    <div>
     <details>
       <summary>Show solution</summary>
       
@@ -64,30 +55,23 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
       **link-color** = cc0000 (set the link color to red)  
       
     </details>
-    </div>
 
 6. Change the visual style of the above Web page displayed by Docsify-This using URL parameters (and not the Web Page Builder), for example set the link color to 0000ff (blue)  
 
-    <div>
     <details>
       <summary>Show solution</summary>
       
       https://docsify-this.net/?basePath=https://raw.codeberg.page/paulhibbitts/codeberg-demo-markdown-file&homepage=README.md&sidebar=true&link-color=0000ff
       
     </details>
-    </div>
 
 7. Modify the below iFrame code to display the URL `https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=home.md`
 
-    <div>
 
     ```html
     <p><iframe style="overflow: hidden; border: 0px #ffffff none; background: #ffffff;" src="https://docsify-this.net/?basePath=https://raw.codeberg.page/paulhibbitts/codeberg-demo-markdown-file&homepage=README.md&hide-credits=true" width="800px" height="1400px" allowfullscreen="allowfullscreen"></iframe></p>
     ```
 
-    </div>
-
-    <div>
     <details>
       <summary>Show solution</summary>
       
@@ -96,7 +80,6 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
       ```
       
     </details>
-    </div>
 
 STRETCH GOAL
 
