@@ -1,10 +1,10 @@
 # An Introduction to Self-Publishing with Docsify-This
 
-Welcome to the "Empowering Self-Publishing with Docsify-This: A Digital Literacy Workshop"! This online resource summarizes key concepts and provides resources to help you explore further.
+Welcome to the 'Empowering Self-Publishing with Docsify-This: A Digital Literacy Workshop'! This online resource summarizes key concepts and provides resources to help you explore further.
 
 ## Unlocking the Power of Self-Publishing
 
-Docsify-This.net is an open-source tool for publishing static websites using plain text and Markdown. This workshop will guide you through the essentials and advanced techniques for using Docsify-This for self-publishing.
+Docsify-This.net (built with the magical documentation site generator [Docsify](https://docsify.js.org)) is an open-source tool for publishing static websites using plain text and Markdown. This workshop will guide you through the essentials and advanced techniques for using Docsify-This for self-publishing.
 
 ---
 
