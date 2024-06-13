@@ -21,6 +21,13 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 
 ### Fundamental Elements
 
+#### Markdown
+- **Overview**: Markdown is a lightweight markup language for creating formatted text using a plain-text editor. It's simple to learn and widely used for documentation and web content.
+- **Activity**: Write a document in Markdown with headings, lists, links, and images.
+- **Resources**:
+  - [Markdown Guide](https://www.markdownguide.org/)
+  - [Interactive Markdown Tutorial](https://www.markdowntutorial.com/)
+
 #### Plain Text Files
 - **Overview**: Plain text files are simple, unformatted text files that can be read and edited with any text editor. They are the foundation for Markdown documents used in Docsify-This.
 - **Activity**: Create and edit a plain text file using TextEdit (Mac), Notepad (Windows) or any available text editor.
@@ -34,14 +41,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
   - [What is a URL - Parameters](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL#parameters)
   - [Docsify-This Page Appearance URL Parameters](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main&sidebar=true&browser-tab-title=Markdown%20Publishing%20with%20Docsify-This&edit-link=https://github.com/hibbitts-design/publishing-with-docsify-this/blob/main/README.md&edit-link-text=Suggest%20an%20Edit%20for%20this%20Page&maxLevel=3&coverpage=_coverpage.md&zoom-images=true&dark-mode=true#/?id=docsify-this-web-page-appearance)
 
-### Creating and Using Markdown
-
-#### Writing in Markdown
-- **Overview**: Markdown is a lightweight markup language for creating formatted text using a plain-text editor. It's simple to learn and widely used for documentation and web content.
-- **Activity**: Write a document in Markdown with headings, lists, links, and images.
-- **Resources**:
-  - [Markdown Guide](https://www.markdownguide.org/)
-  - [Interactive Markdown Tutorial](https://www.markdowntutorial.com/)
+### Creating and Using Markdown Content
 
 #### Markdown Editors
 - **Overview**: Various tools can enhance the experience of writing and editing Markdown. These editors provide features like live preview, syntax highlighting, and integration with other tools.
