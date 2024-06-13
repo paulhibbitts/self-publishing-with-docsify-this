@@ -34,6 +34,13 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
   - [Markdown Guide](https://www.markdownguide.org/)
   - [Interactive Markdown Tutorial](https://www.markdowntutorial.com/)
 
+#### Publishing Markdown Content
+- **Overview**: Display Markdown files as published web pages using Docsify-This. This allows for presentation and styling of web content.
+- **Activity**: Publish a Markdown file as a web page using Docsify-This.net.
+- **Resources**:
+  - [Docsify⁠–⁠This.net](https://docsify-this.net)
+  - [Publishing with Docsify⁠–⁠This Guide](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main&sidebar=true&browser-tab-title=Markdown%20Publishing%20with%20Docsify-This&edit-link=https://github.com/hibbitts-design/publishing-with-docsify-this/blob/main/README.md&edit-link-text=Suggest%20an%20Edit%20for%20this%20Page&maxLevel=3&coverpage=_coverpage.md&zoom-images=true&dark-mode=true)
+
 #### Markdown Editors
 - **Overview**: Various tools can enhance the experience of writing and editing Markdown. These editors provide features like live preview, syntax highlighting, and integration with other tools.
 - **Key Points**:
@@ -54,13 +61,6 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 - **Resources**:
   - [GitHub: Working with Markdown Files](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   - [Codeberg Documentation](https://docs.codeberg.org/)
-
-#### Publishing Markdown Content
-- **Overview**: Display Markdown files as published web pages using Docsify-This. This allows for presentation and styling of web content.
-- **Activity**: Publish a Markdown file as a web page using Docsify-This.net.
-- **Resources**:
-  - [Docsify⁠–⁠This.net](https://docsify-this.net)
-  - [Publishing with Docsify⁠–⁠This Guide](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main&sidebar=true&browser-tab-title=Markdown%20Publishing%20with%20Docsify-This&edit-link=https://github.com/hibbitts-design/publishing-with-docsify-this/blob/main/README.md&edit-link-text=Suggest%20an%20Edit%20for%20this%20Page&maxLevel=3&coverpage=_coverpage.md&zoom-images=true&dark-mode=true)
 
 #### Embedding (Inclusion) vs. Duplication of Content
 - **Overview**: Embedding allows you to include content from other files dynamically, avoiding duplication and maintaining consistency.
