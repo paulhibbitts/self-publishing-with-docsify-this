@@ -10,15 +10,6 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 
 ## BASICS
 
-### Docsify-This
-
-#### Publishing with Docsify-This
-- **Overview**: Display Markdown files as published web pages using Docsify-This. This allows for presentation and styling of web content.
-- **Activity**: Publish a Markdown file as a web page using Docsify-This.net.
-- **Resources**:
-  - [Docsify⁠–⁠This.net](https://docsify-this.net)
-  - [Publishing with Docsify⁠–⁠This Guide](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main&sidebar=true&browser-tab-title=Markdown%20Publishing%20with%20Docsify-This&edit-link=https://github.com/hibbitts-design/publishing-with-docsify-this/blob/main/README.md&edit-link-text=Suggest%20an%20Edit%20for%20this%20Page&maxLevel=3&coverpage=_coverpage.md&zoom-images=true&dark-mode=true)
-
 ### Fundamental Elements
 
 #### Markdown
@@ -41,7 +32,14 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
   - [What is a URL - Parameters](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL#parameters)
   - [Docsify-This Page Appearance URL Parameters](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main&sidebar=true&browser-tab-title=Markdown%20Publishing%20with%20Docsify-This&edit-link=https://github.com/hibbitts-design/publishing-with-docsify-this/blob/main/README.md&edit-link-text=Suggest%20an%20Edit%20for%20this%20Page&maxLevel=3&coverpage=_coverpage.md&zoom-images=true&dark-mode=true#/?id=docsify-this-web-page-appearance)
 
-### Creating and Using Markdown Content
+### Creating and Publishing Markdown Content
+
+### Publishing with Docsify-This
+- **Overview**: Display Markdown files as published web pages using Docsify-This. This allows for presentation and styling of web content.
+- **Activity**: Publish a Markdown file as a web page using Docsify-This.net.
+- **Resources**:
+  - [Docsify⁠–⁠This.net](https://docsify-this.net)
+  - [Publishing with Docsify⁠–⁠This Guide](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main&sidebar=true&browser-tab-title=Markdown%20Publishing%20with%20Docsify-This&edit-link=https://github.com/hibbitts-design/publishing-with-docsify-this/blob/main/README.md&edit-link-text=Suggest%20an%20Edit%20for%20this%20Page&maxLevel=3&coverpage=_coverpage.md&zoom-images=true&dark-mode=true)
 
 #### Markdown Editors
 - **Overview**: Various tools can enhance the experience of writing and editing Markdown. These editors provide features like live preview, syntax highlighting, and integration with other tools.
