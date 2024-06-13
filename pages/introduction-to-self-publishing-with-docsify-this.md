@@ -19,7 +19,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
   - [What is a Plain Text File?](https://en.wikipedia.org/wiki/Plain_text)
 
 #### URL Parameters
-- **Overview**: URL parameters help specify how content is accessed and displayed in Docsify-This. They can define the base URL, homepage, visual appearance and which elements are visible within the site. An example URL created by Docsify-This would be _https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md_
+- **Overview**: URL parameters help specify how content is accessed and displayed in Docsify-This. They can define the base URL, homepage, visual appearance and which elements are visible within the site. An example URL created by Docsify-This would be _https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true_
 - **Activity**: Edit a URL created by Docsify-This to change the visual appearance of the page displayed.
 - **Resources**:
   - [What is a URL - Parameters](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL#parameters)
