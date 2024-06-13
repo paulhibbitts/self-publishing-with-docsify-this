@@ -34,7 +34,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 
 ### Creating and Using Markdown Content
 
-### Publishing Markdown Content
+#### Publishing Markdown Content
 - **Overview**: Display Markdown files as published web pages using Docsify-This. This allows for presentation and styling of web content.
 - **Activity**: Publish a Markdown file as a web page using Docsify-This.net.
 - **Resources**:
