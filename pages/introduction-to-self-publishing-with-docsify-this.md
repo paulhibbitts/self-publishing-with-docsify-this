@@ -87,10 +87,9 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
   - **Real-Time Collaboration**: Multiple users can edit the same document at the same time, with changes visible instantly.
   - **Markdown Support**: HedgeDoc provides robust Markdown support with live preview, making it easy to see the formatted output as you write..
   - **Ease of Use**: With its user-friendly interface, HedgeDoc is accessible to users of all skill levels, requiring no prior experience with Markdown or version control systems.
-- **Activity**: Create a document on the demo HedgeDoc server, invite collaborators, and work together on the content. Then, display that document using the Docsify-This instance at https://hibbitts-design.github.io/hedgedoc-docsify-this.
+- **Activity**: Create a document on the [demo HedgeDoc server](https://hedgedoc.org/demo/), invite collaborators, and work together on the content. Then, display that document using the Docsify-This instance at https://hibbitts-design.github.io/hedgedoc-docsify-this.
 - **Resources**:
   - [HedgeDoc Official Site](https://hedgedoc.org/)
-  - [HedgeDoc Demo Server](https://hedgedoc.org/demo/)
   - [Display of HedgeDocs files with Docsify-This](https://docsify-this.net/#/?id=display-of-hedgedocs-files)
 
 ### Technical Considerations
