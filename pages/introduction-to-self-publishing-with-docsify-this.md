@@ -91,7 +91,6 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 - **Resources**:
   - [HedgeDoc Official Site](https://hedgedoc.org/)
   - [HedgeDoc Documentation](https://docs.hedgedoc.org/)
-  - [Display of HedgeDocs files with Docsify-This](https://docsify-this.net/#/?id=display-of-hedgedocs-files)
 
 ### Technical Considerations
 
