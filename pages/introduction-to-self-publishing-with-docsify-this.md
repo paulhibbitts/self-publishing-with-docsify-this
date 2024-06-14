@@ -78,7 +78,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 #### GitHub/Codeberg Basics
 - **Overview**: Version control systems like [GitHub](https://github.com/) and [Codeberg](https://codeberg.org/) are essential for managing changes and collaborating on Docsify-This projects. They track file history and facilitate collaboration.
 - **Requirements**: A GitHub or Codeberg account.
-- **Activity**: Set up a repository on GitHub, commit changes, and collaborate on a Docsify-This project.
+- **Activity**: Set up a repository on GitHub or Codeberg, and then collaborate on one or more Markdown files within that repository.
 - **Resources**:
   - [GitHub Guides](https://guides.github.com/)
   - [Codeberg User Documentation](https://docs.codeberg.org/)
