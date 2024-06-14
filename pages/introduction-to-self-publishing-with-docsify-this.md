@@ -18,7 +18,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 - **Resources**:
   - [What is a Plain Text File?](https://en.wikipedia.org/wiki/Plain_text)
 
-#### Markdown
+#### Markdown Format
 - **Overview**: Markdown is a lightweight markup language for creating formatted text using a plain-text editor. It's simple to learn and widely used for documentation and web content.
 - **Activity**: Write a document in Markdown with headings, lists, links, and images.
 - **Resources**:
