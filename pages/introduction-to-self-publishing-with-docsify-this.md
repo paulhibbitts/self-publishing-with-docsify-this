@@ -36,7 +36,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 
 #### Publishing Markdown Files
 - **Overview**: Display Markdown files as published web pages using Docsify-This. This allows for presentation and styling of web content.
-- **Activity**: Publish a Markdown file as a web page using Docsify-This.net.
+- **Activity**: Publish a Markdown file of your choice as a web page using Docsify-This.net.
 - **Resources**:
   - [Docsify⁠–⁠This.net](https://docsify-this.net)
   - [Publishing with Docsify⁠–⁠This Guide](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main&sidebar=true&browser-tab-title=Markdown%20Publishing%20with%20Docsify-This&edit-link=https://github.com/hibbitts-design/publishing-with-docsify-this/blob/main/README.md&edit-link-text=Suggest%20an%20Edit%20for%20this%20Page&maxLevel=3&coverpage=_coverpage.md&zoom-images=true&dark-mode=true)
@@ -45,7 +45,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 - **Overview**: Various tools can enhance the experience of writing and editing Markdown. These editors provide features like live preview, syntax highlighting, and integration with other tools.
 - **Key Points**:
   - **Features**: Look for live preview, syntax highlighting, and ease of use.
-- **Activity**: Try out different Markdown editors to find one that suits your needs.
+- **Activity**: Try out different Markdown editors to find one that appeals to you.
 - **Popular Editors**:
   - **[Visual Studio Code (VS Code)](https://code.visualstudio.com/)**: Powerful, with extensive Markdown support.
   - **[Typora](https://typora.io/)**: Distraction-free, WYSIWYG Markdown editor.
