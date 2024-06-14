@@ -90,6 +90,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 - **Activity**: Create a document on the [demo HedgeDoc server](https://hedgedoc.org/demo/), invite a collaborator, and work together on the doc. Then, display that document using the Docsify-This instance at https://hibbitts-design.github.io/hedgedoc-docsify-this.
 - **Resources**:
   - [HedgeDoc Official Site](https://hedgedoc.org/)
+  - [HedgeDoc Documentation](https://docs.hedgedoc.org/)
   - [Display of HedgeDocs files with Docsify-This](https://docsify-this.net/#/?id=display-of-hedgedocs-files)
 
 ### Technical Considerations
