@@ -64,7 +64,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 
 #### Embedding (Inclusion) vs. Duplication of Content
 - **Overview**: Embedding allows you to include content from other files dynamically, avoiding duplication and maintaining consistency.
-- **Activity**: Embed Markdown content using Docsify-This into another platform, such as an LMS or CMS.
+- **Activity**: Embed the content of a Markdown file using Docsify-This into another platform, such as an LMS or CMS.
 - **Resources**:
   - [Embedding Docsify-This Pages](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main&sidebar=true&browser-tab-title=Markdown%20Publishing%20with%20Docsify-This&edit-link=https://github.com/hibbitts-design/publishing-with-docsify-this/blob/main/README.md&edit-link-text=Suggest%20an%20Edit%20for%20this%20Page&maxLevel=3&coverpage=_coverpage.md&zoom-images=true&dark-mode=true#/?id=embedding-docsify-this-pages)
 
