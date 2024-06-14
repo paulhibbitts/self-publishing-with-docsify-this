@@ -12,18 +12,18 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 
 ### Fundamental Elements
 
+#### Plain Text Files
+- **Overview**: Plain text files are simple, unformatted text files that can be read and edited with any text editor. They are the foundation for Markdown documents used in Docsify-This.
+- **Activity**: Create and edit a plain text file using TextEdit (Mac), Notepad (Windows) or any available text editor.
+- **Resources**:
+  - [What is a Plain Text File?](https://en.wikipedia.org/wiki/Plain_text)
+
 #### Markdown
 - **Overview**: Markdown is a lightweight markup language for creating formatted text using a plain-text editor. It's simple to learn and widely used for documentation and web content.
 - **Activity**: Write a document in Markdown with headings, lists, links, and images.
 - **Resources**:
   - [Markdown Guide](https://www.markdownguide.org/)
   - [Interactive Markdown Tutorial](https://www.markdowntutorial.com/)
-
-#### Plain Text Files
-- **Overview**: Plain text files are simple, unformatted text files that can be read and edited with any text editor. They are the foundation for Markdown documents used in Docsify-This.
-- **Activity**: Create and edit a plain text file using TextEdit (Mac), Notepad (Windows) or any available text editor.
-- **Resources**:
-  - [What is a Plain Text File?](https://en.wikipedia.org/wiki/Plain_text)
 
 #### URL Parameters
 - **Overview**: URL parameters help specify how content is accessed and displayed in Docsify-This. They can define the base URL, homepage, visual appearance and which elements are visible within the site. An example URL created by Docsify-This would be https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-one-page-article/main&homepage=home.md&sidebar=true.
