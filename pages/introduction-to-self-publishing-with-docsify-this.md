@@ -76,13 +76,15 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 
 #### GitHub/Codeberg Basics
 - **Overview**: Version control systems like GitHub and Codeberg are essential for managing changes and collaborating on Docsify-This projects. They track file history and facilitate collaboration.
+- **Requirements**: GitHub or Codeberg account.
 - **Activity**: Set up a repository on GitHub, commit changes, and collaborate on a Docsify-This project.
 - **Resources**:
   - [GitHub Guides](https://guides.github.com/)
   - [Codeberg User Documentation](https://docs.codeberg.org/)
 
 #### HedgeDoc
-- **Overview**: HedgeDoc is an open-source, real-time collaborative Markdown editor. It allows multiple users to edit a document simultaneously, making it an excellent tool for collaborative writing and content creation. By setting up your own instance of Docsify-This (documented on the https://Docsify-This.net web page) you can configure Docsify-This to display Markdown files located on your own HedgeDoc server
+- **Overview**: HedgeDoc is an open-source, real-time collaborative Markdown editor. It allows multiple users to edit a document simultaneously, making it an excellent tool for collaborative writing and content creation.
+- **Requirements**: Your own Hedgedoc server and your own instance of Docsify-This configured with your HedgeDoc server URL (both documented on the https://Docsify-This.net web page).
 - **Key Points**:
   - **Real-Time Collaboration**: Multiple users can edit the same document at the same time, with changes visible instantly.
   - **Markdown Support**: HedgeDoc provides robust Markdown support with live preview, making it easy to see the formatted output as you write.
