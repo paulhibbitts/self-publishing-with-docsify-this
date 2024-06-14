@@ -53,6 +53,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 
 #### Using GitHub or Codeberg for Markdown Editing
 - **Overview**: [GitHub](https://github.com/) and [Codeberg](https://codeberg.org/) offer built-in editors for creating and editing Markdown files directly in your repository. These platforms can also support version control and collaborationof the Markdown files displayed by Docsify-This.
+- **Requirements**: A GitHub or Codeberg account.
 - **Key Points**:
   - **Convenience**: Edit Markdown files directly in your repository without needing external tools.
   - **Collaboration**: Use built-in features to collaborate with others on Markdown documents.
