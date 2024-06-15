@@ -52,7 +52,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 
     <details>
       <summary>Show solution</summary>
-      
+
       https://docsify-this.net/?basePath=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000
       
     </details>
