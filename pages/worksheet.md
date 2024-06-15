@@ -5,32 +5,47 @@
 The open-source web app [Docsify-This.net](https://Docsify-This.net), built with the unique no-build site generator [Docsify.js.org](https://docsify.js.org), provides a quick way to publish one or more online Markdown files as standalone web pages without needing to set up your own website.
 
 1. Display the following Markdown file URL as a standalone Web page  
-`https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md`
-
+   `https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md`
+      
     <details>
       <summary>Show solution</summary>
+
+      1. Copy and then paste the above URL into the **Markdown File URL** field  
+      2. Tap the **Publish as a Standalone Web Page** button  
+      ![Screenshot of solution](images/solution-1.png ':class=image-25-border')
 
       <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
 
-    </details>
+   </details>
 
 2. Display a Markdown file URL of your choice as a standalone Web page. If you do not have a Markdown file URL handy you can use the following URL  
-`https://codeberg.org/Codeberg/Documentation/src/branch/main/README.md`
+   `https://codeberg.org/Codeberg/Documentation/src/branch/main/README.md`
 
     <details>
       <summary>Show solution</summary>
 
-      <a class="navpill" href="https://docsify-this.net/?url-field=https://codeberg.org/Codeberg/Documentation/src/branch/main/README.md" title="Load Docsify-This with the Markdown file URL codeberg.org/Codeberg/Documentation/src/branch/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
+      1. Copy and then paste the above URL into the **Markdown File URL** field  
+      2. Tap the **Publish as a Standalone Web Page** button  
+      ![Screenshot of solution](images/solution-2.png ':class=image-25-border')
+
+      <a class="navpill" href="https://docsify-this.net/?url-field=https://codeberg.org/Codeberg/Documentation/src/branch/main/README.md" title="Load Docsify-This with the Markdown file URL codeberg.org/Codeberg/Documentation/src/branch/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>  
 
     </details>
 
-3. Visually style a displayed Markdown file using the Web Page Builder, for example change the page font family or link color  
+3. Visually style a displayed Markdown file using the Web Page Builder, for example change the page font family and link color  
 
     <details>
       <summary>Show solution</summary>
 
-      <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md, page font family Merriweather and link color cc0000" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
-      
+      1. Tap on **Show More Page Appearance Options** link  
+      ![Screenshot of solution](images/solution-3a.png ':class=image-25-border')
+
+      2. Change **Page Font Family** and **Page Link Color** options  
+      3. Tap the **Publish as a Standalone Web Page** button  
+      ![Screenshot of solution](images/solution-3b.png ':class=image-25-border')
+
+      <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md&font-family=Merriweather,Georgia,serif&link-color=cc0000" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md, page font family Merriweather and link color cc0000" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a> 
+
     </details>
 
 4. Share the URL of a Web page created by Docsify-This Web Page Builder  
