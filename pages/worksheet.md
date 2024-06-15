@@ -24,7 +24,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
     <details>
       <summary>Show solution</summary><br>
 
-      1. Copy and then paste the above URL into the **Markdown File URL** field  
+      1. Copy a Markdown file URL of your choice, or the above URL, and then paste the above URL into the **Markdown File URL** field  
       2. Tap the **Publish as a Standalone Web Page** button  
       ![Screenshot of solution](images/solution-2.png ':class=image-25-border')
 
