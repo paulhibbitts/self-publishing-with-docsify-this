@@ -38,8 +38,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
       <summary>Show solution</summary>
 
       1. Tap on **Show More Page Appearance Options** link  
-      ![Screenshot of solution](images/solution-3a.png ':class=image-25-border')
-      
+      ![Screenshot of solution](images/solution-3a.png ':class=image-25-border')<br><br>
       2. Change **Page Font Family** and **Page Link Color** options  
       3. Tap the **Publish as a Standalone Web Page** button  
       ![Screenshot of solution](images/solution-3b.png ':class=image-25-border')
