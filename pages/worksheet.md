@@ -6,9 +6,9 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 
 1. Display the following Markdown file URL as a standalone Web page  
    `https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md`
-      
+
     <details>
-      <summary>Show solution</summary>
+      <summary>Show solution</summary><br>
 
       1. Copy and then paste the above URL into the **Markdown File URL** field  
       2. Tap the **Publish as a Standalone Web Page** button  
@@ -16,13 +16,13 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 
       <a class="navpill" href="https://docsify-this.net/?url-field=https://github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" title="Load Docsify-This with the Markdown file URL github.com/paulhibbitts/github-demo-markdown-file/blob/main/README.md" target="_blank"><i class="fas fa-check-square fa-fw"></i>Open Docsify-This with Solution</a>
 
-   </details>
+    </details>
 
 2. Display a Markdown file URL of your choice as a standalone Web page. If you do not have a Markdown file URL handy you can use the following URL  
    `https://codeberg.org/Codeberg/Documentation/src/branch/main/README.md`
 
     <details>
-      <summary>Show solution</summary>
+      <summary>Show solution</summary><br>
 
       1. Copy and then paste the above URL into the **Markdown File URL** field  
       2. Tap the **Publish as a Standalone Web Page** button  
@@ -35,7 +35,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 3. Visually style a displayed Markdown file using the Web Page Builder, for example change the page font family and link color  
 
     <details>
-      <summary>Show solution</summary>
+      <summary>Show solution</summary><br>
 
       1. Tap on **Show More Page Appearance Options** link  
       ![Screenshot of solution](images/solution-3a.png ':class=image-25-border')<br><br>
