@@ -39,7 +39,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 
       1. Tap on **Show More Page Appearance Options** link  
       ![Screenshot of solution](images/solution-3a.png ':class=image-25-border')
-
+      
       2. Change **Page Font Family** and **Page Link Color** options  
       3. Tap the **Publish as a Standalone Web Page** button  
       ![Screenshot of solution](images/solution-3b.png ':class=image-25-border')
@@ -89,7 +89,7 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
 
     <details>
       <summary>Show solution</summary>
-      
+
       ```html
       <p><iframe style="overflow: hidden; border: 0px #ffffff none; background: #ffffff;" src="https://docsify-this.net?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-lms-content-pages/main&homepage=home.md&hide-credits=true" width="800px" height="1400px" allowfullscreen="allowfullscreen"></iframe></p>
       ```
