@@ -65,9 +65,9 @@ The open-source web app [Docsify-This.net](https://Docsify-This.net), built with
       
       URL Parameters:  
       **basePath** = `https://raw.codeberg.page/paulhibbitts/codeberg-demo-markdown-file` (set the path containing the Markdown file to display)  
-      **homepage** = README.md (set the name of the Markdown file to display)  
-      **sidebar** = true (show the Sidebar)  
-      **link-color** = cc0000 (set the link color to red)  
+      **homepage** = `README.md` (set the name of the Markdown file to display)  
+      **sidebar** = `true` (show the Sidebar)  
+      **link-color** = `cc0000` (set the link color to red)  
       
     </details>
 
