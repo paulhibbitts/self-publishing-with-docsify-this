@@ -2,7 +2,7 @@
 
 This overview introduces key aspects of **Docsify-This**, an open-source project available at https://Docsify-This.net that turns Markdown files into web pages. It provides a collection of resources related to the basic digital literacy elements of Docsify-This, such as plain text files, Markdown and URL parameters, and some advanced aspects of the lightweight publishing tool.
 
-If you are looking for a more extensive guide about Docisfy-This you might want to check out the [Publishing with Docsify⁠–⁠This Guide](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main&sidebar=true&browser-tab-title=Markdown%20Publishing%20with%20Docsify-This&edit-link=https://github.com/hibbitts-design/publishing-with-docsify-this/blob/main/README.md&edit-link-text=Suggest%20an%20Edit%20for%20this%20Page&maxLevel=3&coverpage=_coverpage.md&zoom-images=true&dark-mode=true).
+If you are looking for a more detailed guide about Docisfy-This you might want to check out the [Publishing with Docsify⁠–⁠This Guide](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main&sidebar=true&browser-tab-title=Markdown%20Publishing%20with%20Docsify-This&edit-link=https://github.com/hibbitts-design/publishing-with-docsify-this/blob/main/README.md&edit-link-text=Suggest%20an%20Edit%20for%20this%20Page&maxLevel=3&coverpage=_coverpage.md&zoom-images=true&dark-mode=true).
 
 ---
 
