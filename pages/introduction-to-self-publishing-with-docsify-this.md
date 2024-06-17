@@ -2,7 +2,7 @@
 
 Welcome to the 'Empowering Self-Publishing with Docsify-This: A Digital Literacy Workshop'! This online resource summarizes key concepts and provides resources to help you explore further.
 
-## Unlocking the Power of Self-Publishing
+<h2> Unlocking the Power of Self-Publishing </h2>
 
 This overview introduces Markdown publishing using **Docsify-This**, an open-source project available at https://Docsify-This.net (built with the magical documentation site generator https://docsify.js.org) that turns Markdown files into web pages. It covers the basics of Markdown, its advantages, and various tools and scenarios for publishing Markdown files as standalone web pages or embedded content.
 
@@ -32,7 +32,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
   - [What is a URL - Parameters](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL#parameters)
   - [Docsify-This Page Appearance URL Parameters](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main&sidebar=true&browser-tab-title=Markdown%20Publishing%20with%20Docsify-This&edit-link=https://github.com/hibbitts-design/publishing-with-docsify-this/blob/main/README.md&edit-link-text=Suggest%20an%20Edit%20for%20this%20Page&maxLevel=3&coverpage=_coverpage.md&zoom-images=true&dark-mode=true#/?id=docsify-this-web-page-appearance)
 
-### Creating and Using Markdown Content
+### Using Markdown Content
 
 #### Publishing Markdown Files
 - **Overview**: Display Markdown files as published web pages using Docsify-This. This allows for presentation and styling of web content.
@@ -63,7 +63,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
   - [GitHub: Working with Markdown Files](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
   - [Codeberg Documentation](https://docs.codeberg.org/)
 
-#### Embedding (Inclusion) vs. Duplication of Content
+#### Embedding vs. Duplicating Content
 - **Overview**: Embedding allows you to include content from other files dynamically, avoiding duplication and maintaining consistency.
 - **Activity**: Embed the content of a Markdown file using Docsify-This into another platform, such as an LMS or CMS.
 - **Resources**:
@@ -73,7 +73,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 
 ## ADVANCED
 
-### Version Control & Collaboration
+### Version Control & Collab
 
 #### GitHub/Codeberg Basics
 - **Overview**: Version control systems like [GitHub](https://github.com/) and [Codeberg](https://codeberg.org/) are essential for managing changes and collaborating on Docsify-This projects. They track file history and facilitate collaboration.
@@ -97,12 +97,12 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 
 ### Technical Considerations
 
-#### Static vs. Dynamic Websites (Including Hosting)
+#### Static vs. Dynamic Websites
 - **Overview**: Static websites serve pre-rendered content, while dynamic websites generate content on-the-fly. Understanding their differences helps in choosing the right solution for your project.
 - **Activity**: Deploy a Docsify-This page on a static hosting platform like GitHub 
 
-#### CSR (Client-side Rendering) vs. SSR (Server-side Rendering)
-- **Overview**: CSR renders content in the browser, offering a dynamic and interactive user experience, while SSR pre-renders content on the server, often leading to faster initial loads.
+#### CSR vs. SSR
+- **Overview**: CSR (Client-side Rendering) renders content in the browser, offering a dynamic and interactive user experience, while SSR (Server-side Rendering) pre-renders content on the server, often leading to faster initial loads.
 - **Activity**: Explore how Docsify-This uses CSR to dynamically render content.
 - **Resources**:
   - [Server Side Rendering vs Client Side Rendering vs Server Side Generation](https://www.geeksforgeeks.org/server-side-rendering-vs-client-side-rendering-vs-server-side-generation/)
