@@ -98,7 +98,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 ### Technical Aspects
 
 #### Client vs Server Rendering
-- **Overview**: CSR (Client-side Rendering) renders content in the browser, avoiding any required build process, while SSR (Server-side Rendering) pre-renders content on the server side, often leading to faster initial loads.
+- **Overview**: CSR (Client-side Rendering) renders content in the browser, avoiding any required build process, while SSR (Server-side Rendering) pre-renders content on the server side, leading to faster initial loads and more search engine friendly HTML web pages.
 - **Activity**: Explore how Docsify-This uses CSR via [Docsify](https://docsify.js.org) to dynamically render Markdown content vs such SSR platforms such as [Jekyll](https://jekyllrb.com/) and [Docusaurus](https://docusaurus.io/) that render Markdown content to static HTML pages.
 - **Resources**:
   - [Server Side Rendering vs Client Side Rendering vs Server Side Generation](https://www.geeksforgeeks.org/server-side-rendering-vs-client-side-rendering-vs-server-side-generation/)
