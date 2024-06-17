@@ -51,7 +51,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
   - **[Typora](https://typora.io/)**: Distraction-free, WYSIWYG Markdown editor.
   - **[MarkdownPad](http://markdownpad.com/)**: Windows-based editor with live preview and export options.
 
-#### Using GitHub or Codeberg for Markdown Editing
+#### GitHub or Codeberg Editors
 - **Overview**: [GitHub](https://github.com/) and [Codeberg](https://codeberg.org/) offer built-in editors for creating and editing Markdown files directly in your repository. These platforms can also support version control and collaborationof the Markdown files displayed by Docsify-This.
 - **Requirements**: A GitHub or Codeberg account.
 - **Key Points**:
@@ -73,9 +73,9 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 
 ## ADVANCED
 
-### Version Control & Collab
+### Version Control & Collaboration
 
-#### GitHub/Codeberg Basics
+#### GitHub and Codeberg Basics
 - **Overview**: Version control systems like [GitHub](https://github.com/) and [Codeberg](https://codeberg.org/) are essential for managing changes and collaborating on Docsify-This projects. They track file history and facilitate collaboration.
 - **Requirements**: A GitHub or Codeberg account.
 - **Activity**: Set up a repository on GitHub or Codeberg, and then collaborate on one or more Markdown files within that repository.
