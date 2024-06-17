@@ -1,6 +1,6 @@
 # An Introduction to Self-Publishing with Docsify-This
 
-This guide includes key concepts related to both Docsify-This and digital literacy skills, and provides a collection of external resources to help you explore further.
+This overview includes key concepts related to both Docsify-This and digital literacy skills, and provides a collection of external resources to help you explore further.
 
 <h2> Unlocking the Power of Self-Publishing </h2>
 
