@@ -101,7 +101,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 - **Overview**: Static websites serve pre-rendered content, while dynamic websites generate content on-the-fly. Understanding their differences helps in choosing the right solution for your project.
 - **Activity**: Deploy a Docsify-This page on a static hosting platform like GitHub 
 
-#### CSR vs. SSR
+#### Client vs Server Rendering
 - **Overview**: CSR (Client-side Rendering) renders content in the browser, offering a dynamic and interactive user experience, while SSR (Server-side Rendering) pre-renders content on the server, often leading to faster initial loads.
 - **Activity**: Explore how Docsify-This uses CSR to dynamically render content.
 - **Resources**:
