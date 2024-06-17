@@ -51,8 +51,8 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
   - **[Typora](https://typora.io/)**: Distraction-free, WYSIWYG Markdown editor.
   - **[MarkdownPad](http://markdownpad.com/)**: Windows-based editor with live preview and export options.
 
-#### GitHub/Codeberg Web Editors
-- **Overview**: [GitHub](https://github.com/) and [Codeberg](https://codeberg.org/) offer built-in editors for creating and editing Markdown files directly in your repository. These platforms can also support [Git](https://en.wikipedia.org/wiki/Git) version control and collaborationvof the Markdown files displayed by Docsify-This.
+#### GitHub or Codeberg Editors
+- **Overview**: [GitHub](https://github.com/) and [Codeberg](https://codeberg.org/) offer built-in Web editors for creating and editing Markdown files directly in your repository. These platforms can also support [Git](https://en.wikipedia.org/wiki/Git) version control and collaboration of the Markdown files displayed by Docsify-This.
 - **Requirements**: A GitHub or Codeberg account.
 - **Key Points**:
   - **Convenience**: Edit Markdown files directly in your repository without needing external tools.
@@ -83,8 +83,8 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
   - [GitHub Guides](https://guides.github.com/)
   - [Codeberg User Documentation](https://docs.codeberg.org/)
 
-#### HedgeDoc Web Editor
-- **Overview**: [HedgeDoc](https://hedgedoc.org/) is an open-source, real-time collaborative Markdown editor. It allows multiple users to edit a document simultaneously, making it an excellent tool for collaborative writing and content creation.
+#### HedgeDoc Collab Editor
+- **Overview**: [HedgeDoc](https://hedgedoc.org/) is an open-source, real-time collaborative Web Markdown editor. It allows multiple users to edit a document simultaneously, making it an excellent tool for collaborative writing and content creation.
 - **Requirements**: Your own Hedgedoc server and your own instance of Docsify-This configured with your HedgeDoc server URL (both documented on the https://Docsify-This.net web page).
 - **Key Points**:
   - **Real-Time Collaboration**: Multiple users can edit the same document at the same time, with changes visible instantly.
