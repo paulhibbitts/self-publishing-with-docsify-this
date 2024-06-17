@@ -109,7 +109,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 
 ### Videos
 
- - Open Publishing Ecosystems: Docsify This (courtesy of [Reclaim Hosting](https://www.reclaimhosting.com/))
+- Open Publishing Ecosystems: Docsify This (courtesy of [Reclaim Hosting](https://www.reclaimhosting.com/))
   - https://www.youtube.com/embed/EjeqxOJ2ZxE
 
 ### Articles and Guides
