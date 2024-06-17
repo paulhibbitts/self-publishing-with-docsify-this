@@ -1,12 +1,8 @@
 # An Introduction to Self-Publishing with Docsify-This
 
-This overview introduces key concepts related to both Docsify-This and digital literacy skills, and provides a collection of external resources to help you explore further.  
+This overview introduces Markdown publishing using **Docsify-This**, an open-source project available at https://Docsify-This.net (built with the magical documentation site generator https://docsify.js.org) that turns Markdown files into web pages. It provides external resources related to the basics of Docsify-This, such as plain text files, Markdown and URL parameters, and some more advanced aspects of the lightweight publishing tool.
 
 If you are looking for a more extensive guide about Docisfy-This you might want to check out the [Publishing with Docsify⁠–⁠This Guide](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main&sidebar=true&browser-tab-title=Markdown%20Publishing%20with%20Docsify-This&edit-link=https://github.com/hibbitts-design/publishing-with-docsify-this/blob/main/README.md&edit-link-text=Suggest%20an%20Edit%20for%20this%20Page&maxLevel=3&coverpage=_coverpage.md&zoom-images=true&dark-mode=true).
-
-<h2> Unlocking the Power of Self-Publishing </h2>
-
-This overview introduces Markdown publishing using **Docsify-This**, an open-source project available at https://Docsify-This.net (built with the magical documentation site generator https://docsify.js.org) that turns Markdown files into web pages. It covers the basics of Markdown, its advantages, and various tools and scenarios for publishing Markdown files as standalone web pages or embedded content.
 
 ---
 
