@@ -41,7 +41,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
   - [Docsify⁠–⁠This.net](https://docsify-this.net)
   - [Publishing with Docsify⁠–⁠This Guide](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/publishing-with-docsify-this/main&sidebar=true&browser-tab-title=Markdown%20Publishing%20with%20Docsify-This&edit-link=https://github.com/hibbitts-design/publishing-with-docsify-this/blob/main/README.md&edit-link-text=Suggest%20an%20Edit%20for%20this%20Page&maxLevel=3&coverpage=_coverpage.md&zoom-images=true&dark-mode=true)
 
-#### Markdown Editors
+#### Desktop Markdown Editors
 - **Overview**: Various tools can enhance the experience of writing and editing Markdown. These editors provide features like live preview, syntax highlighting, and integration with other tools.
 - **Key Points**:
   - **Features**: Look for live preview, syntax highlighting, and ease of use.
@@ -51,7 +51,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
   - **[Typora](https://typora.io/)**: Distraction-free, WYSIWYG Markdown editor.
   - **[MarkdownPad](http://markdownpad.com/)**: Windows-based editor with live preview and export options.
 
-#### GitHub or Codeberg Editors
+#### GitHub/Codeberg Web Editors
 - **Overview**: [GitHub](https://github.com/) and [Codeberg](https://codeberg.org/) offer built-in editors for creating and editing Markdown files directly in your repository. These platforms can also support version control and collaborationof the Markdown files displayed by Docsify-This.
 - **Requirements**: A GitHub or Codeberg account.
 - **Key Points**:
