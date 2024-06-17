@@ -95,7 +95,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
   - [HedgeDoc Official Site](https://hedgedoc.org/)
   - [HedgeDoc Documentation](https://docs.hedgedoc.org/)
 
-### Technical Considerations
+### Technical Aspects
 
 #### Static vs. Dynamic Websites
 - **Overview**: Static websites serve pre-rendered content, while dynamic websites generate content on-the-fly. Understanding their differences helps in choosing the right solution for your project.
