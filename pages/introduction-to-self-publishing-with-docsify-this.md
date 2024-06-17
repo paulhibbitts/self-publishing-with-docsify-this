@@ -121,7 +121,7 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 - OER on GitHub What, Why, & How
   - https://evanwill.github.io/make-oer
 
-### Apps
+### Desktop Apps
 
 - Markdown Desktop Editors
   - https://code.visualstudio.com/
