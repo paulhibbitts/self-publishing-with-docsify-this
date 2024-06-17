@@ -103,4 +103,30 @@ This overview introduces Markdown publishing using **Docsify-This**, an open-sou
 - **Resources**:
   - [Server Side Rendering vs Client Side Rendering vs Server Side Generation](https://www.geeksforgeeks.org/server-side-rendering-vs-client-side-rendering-vs-server-side-generation/)
 
+---
+
+## ADDITIONAL RESOURCES
+
+### Videos
+
+ - Open Publishing Ecosystems: Docsify This (courtesy of [Reclaim Hosting](https://www.reclaimhosting.com/))
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/EjeqxOJ2ZxE?si=arAygq5CIMSiHzDz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Articles and Guides
+
+- Basic Syntax | Markdown Guide
+  - https://www.markdownguide.org/basic-syntax
+- Improving The Accessibility Of Your Markdown
+  - https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown
+- OER on GitHub What, Why, & How
+  - https://evanwill.github.io/make-oer
+
+### Apps
+
+- Markdown Desktop Editors
+  - https://code.visualstudio.com/
+  - https://typora.io
+- GitHub Desktop App (can also be used with Codeberg)
+  - https://desktop.github.com
+
 _This educational resource was partially created with the assistance of ChatGPT, an AI language model developed by OpenAI. ChatGPT provided suggestions, draft content, and ideas which were reviewed and adapted by the author._
