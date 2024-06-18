@@ -6,5 +6,5 @@
 
 Created by [Paul Hibbitts](https://hibbittsdesign.org).
 
-[Read the Introduction](#an-introduction-to-self-publishing-with-docsify-this)
+[Read the Overview](#an-introduction-to-self-publishing-with-docsify-this)
 [Try out Docsify-This](https://docsify-this.net)
