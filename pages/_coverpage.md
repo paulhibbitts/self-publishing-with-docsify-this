@@ -2,7 +2,7 @@
 
 #  Self-Publishing with Docsify&#8288;&#8211;&#8288;This
 
-> An introduction to self-publishing with Markdown using the open source project Docsify&#8288;&#8211;&#8288;This, with a focus on digital literacy.
+> An overview to self-publishing with Markdown using the open source project Docsify&#8288;&#8211;&#8288;This, with a focus on digital literacy.
 
 Created by [Paul Hibbitts](https://hibbittsdesign.org).
 
